@@ -14,4 +14,4 @@ b. num of blocks = ceil(200000/128) = 1563, so num of threads in the grid = 1563
 c. 1563  
 d. all of the 200614 threads  
 e. 200000 threads
-10. Use both \_\_global\_\_ and \_\_device\_\_ for function declaration
+10. Use both \_\_host\_\_ and \_\_device\_\_ for function declaration
